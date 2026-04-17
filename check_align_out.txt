@@ -1,0 +1,274 @@
+Sample 1:
+Text length: 225
+  [NAME] (0, 12): 'Rahul Sharma'
+  [EMAIL] (20, 44): 'rahul.sharma@gmail.com
+P'
+  [PHONE] (52, 62): '76543210
+E'
+  [DEGREE] (76, 81): 'ch in'
+  [COLLEGE] (101, 110): 'om IIT De'
+  [GRADUATION_YEAR] (112, 116): 'i, 2'
+  [SKILLS] (125, 131): 's: Pyt'
+  [SKILLS] (133, 149): 'n, Machine Learn'
+  [SKILLS] (151, 164): 'g, Deep Learn'
+  [SKILLS] (166, 169): 'g, '
+  [DESIGNATION] (183, 203): ': Data Science Inter'
+  [COMPANY] (207, 213): ' Googl'
+  [LOCATION] (215, 224): ' Bangalor'
+Sample 2:
+Text length: 207
+  [NAME] (0, 11): 'Priya Patel'
+  [EMAIL] (19, 41): 'priya.patel@yahoo.com
+'
+  [PHONE] (49, 59): '765432109
+'
+  [DEGREE] (73, 77): 'c in'
+  [COLLEGE] (95, 109): ' IISC Bangalor'
+  [GRADUATION_YEAR] (111, 115): ' 202'
+  [SKILLS] (124, 125): ' '
+  [SKILLS] (127, 137): ' Statistic'
+  [SKILLS] (139, 146): ' Tablea'
+  [SKILLS] (148, 151): ' SQ'
+  [DESIGNATION] (165, 185): 'Research Assistant a'
+  [COMPANY] (189, 198): 'crosoft, '
+  [LOCATION] (200, 209): 'derabad'
+Sample 3:
+Text length: 205
+  [NAME] (0, 10): 'Amit Kumar'
+  [EMAIL] (18, 42): 'amit.kumar@outlook.com
+P'
+  [PHONE] (50, 60): '54321098
+E'
+  [DEGREE] (74, 77): 'in '
+  [COLLEGE] (97, 107): ' Trichy, 2'
+  [GRADUATION_YEAR] (109, 113): '2
+Sk'
+  [SKILLS] (122, 125): ', E'
+  [SKILLS] (127, 143): 'edded Systems, M'
+  [SKILLS] (145, 151): 'LAB, A'
+  [SKILLS] (153, 160): 'uino
+Ex'
+  [DESIGNATION] (174, 191): 'ware Engineer at '
+  [COMPANY] (195, 200): 'l, Ch'
+  [LOCATION] (202, 209): 'nai'
+Sample 4:
+Text length: 226
+  [NAME] (0, 11): 'Sneha Reddy'
+  [EMAIL] (19, 42): 'sneha.reddy@gmail.com
+P'
+  [PHONE] (50, 60): '43210987
+E'
+  [DEGREE] (74, 77): 'in '
+  [COLLEGE] (97, 111): 'hmedabad, 2023'
+  [GRADUATION_YEAR] (113, 117): 'kill'
+  [SKILLS] (126, 143): 'l Marketing, SEO,'
+  [SKILLS] (145, 148): 'ont'
+  [SKILLS] (150, 166): 't Strategy, Goog'
+  [SKILLS] (168, 184): ' Analytics
+Exper'
+  [DESIGNATION] (198, 214): 'ng Analyst at Am'
+  [COMPANY] (218, 224): ', Mumb'
+  [LOCATION] (226, 232): ''
+Sample 5:
+Text length: 229
+  [NAME] (0, 12): 'Vikram Singh'
+  [EMAIL] (20, 46): 'vikram.singh@hotmail.com
+P'
+  [PHONE] (54, 64): '32109876
+E'
+  [DEGREE] (78, 83): 'ch in'
+  [COLLEGE] (111, 122): ' BITS Pilan'
+  [GRADUATION_YEAR] (124, 128): ' 202'
+  [SKILLS] (137, 144): ' AutoCA'
+  [SKILLS] (146, 156): ' SolidWork'
+  [SKILLS] (158, 169): ' 3D Printin'
+  [SKILLS] (171, 179): ' Robotic'
+  [DESIGNATION] (193, 208): 'Design Engineer'
+  [COMPANY] (212, 223): 'Tata Motors'
+  [LOCATION] (225, 229): 'Pune'
+Sample 6:
+Text length: 222
+  [NAME] (0, 12): 'Ananya Gupta'
+  [EMAIL] (20, 44): 'ananya.gupta@gmail.com
+P'
+  [PHONE] (52, 62): '21098765
+E'
+  [DEGREE] (76, 80): ' in '
+  [COLLEGE] (100, 127): ' Xavier's College Mumbai, 2'
+  [GRADUATION_YEAR] (129, 133): '2
+Sk'
+  [SKILLS] (142, 148): 'hon, D'
+  [SKILLS] (150, 163): 'a Analysis, P'
+  [SKILLS] (165, 171): 'das, N'
+  [SKILLS] (173, 178): 'Py
+Ex'
+  [DESIGNATION] (192, 204): ' Analyst at '
+  [COMPANY] (208, 215): 'sys, Ba'
+  [LOCATION] (217, 226): 'alore'
+Sample 7:
+Text length: 204
+  [NAME] (0, 12): 'Karthik Nair'
+  [EMAIL] (20, 44): 'karthik.nair@gmail.com
+P'
+  [PHONE] (52, 62): '10987654
+E'
+  [DEGREE] (76, 82): 'ch in '
+  [COLLEGE] (93, 103): ' Madras, 2'
+  [GRADUATION_YEAR] (105, 109): '4
+Sk'
+  [SKILLS] (118, 128): 'sorFlow, P'
+  [SKILLS] (130, 137): 'orch, C'
+  [SKILLS] (139, 154): 'puter Vision, G'
+  [SKILLS] (156, 160): 's
+Ex'
+  [DESIGNATION] (174, 185): 'ngineer at '
+  [COMPANY] (189, 197): 'kart, Ba'
+  [LOCATION] (199, 208): 'alore'
+Sample 8:
+Text length: 206
+  [NAME] (0, 11): 'Divya Menon'
+  [EMAIL] (19, 41): 'divya.menon@yahoo.com
+'
+  [PHONE] (49, 59): '109876543
+'
+  [DEGREE] (73, 76): ' fr'
+  [COLLEGE] (82, 110): 'ist University Bangalore, 20'
+  [GRADUATION_YEAR] (112, 116): '
+Ski'
+  [SKILLS] (125, 129): ', Sp'
+  [SKILLS] (131, 142): 'ng Boot, RE'
+  [SKILLS] (144, 153): ' APIs, My'
+  [SKILLS] (155, 160): 'L
+Exp'
+  [DESIGNATION] (174, 191): 'nd Developer at W'
+  [COMPANY] (195, 200): ', Hyd'
+  [LOCATION] (202, 211): 'abad'
+Sample 9:
+Text length: 196
+  [NAME] (0, 11): 'Rohan Joshi'
+  [EMAIL] (19, 42): 'rohan.joshi@gmail.com
+P'
+  [PHONE] (50, 60): '98765432
+E'
+  [DEGREE] (74, 79): 'ch in'
+  [COLLEGE] (92, 103): 'Vellore, 20'
+  [GRADUATION_YEAR] (105, 109): '
+Ski'
+  [SKILLS] (118, 128): 'Script, Re'
+  [SKILLS] (130, 135): 't, No'
+  [SKILLS] (137, 144): '.js, Mo'
+  [SKILLS] (146, 153): 'oDB
+Exp'
+  [DESIGNATION] (167, 187): 'Stack Developer at T'
+  [COMPANY] (191, 194): 'Noi'
+  [LOCATION] (196, 201): ''
+Sample 10:
+Text length: 222
+  [NAME] (0, 10): 'Meera Iyer'
+  [EMAIL] (18, 42): 'meera.iyer@outlook.com
+P'
+  [PHONE] (50, 60): '88776655
+E'
+  [DEGREE] (74, 77): 'in '
+  [COLLEGE] (101, 110): 'JNU Delhi'
+  [GRADUATION_YEAR] (112, 116): '2022'
+  [SKILLS] (125, 140): 'Content Writing'
+  [SKILLS] (142, 149): 'Editing'
+  [SKILLS] (151, 163): 'Proofreading'
+  [SKILLS] (165, 174): 'WordPress'
+  [DESIGNATION] (188, 202): 'ontent Writer '
+  [COMPANY] (206, 212): 'yju's,'
+  [LOCATION] (214, 223): 'angalore'
+Sample 11:
+Text length: 195
+  [NAME] (0, 12): 'Aditya Verma'
+  [EMAIL] (20, 44): 'aditya.verma@gmail.com
+P'
+  [PHONE] (52, 62): '77665544
+E'
+  [DEGREE] (76, 81): 'ch in'
+  [COLLEGE] (95, 104): 'Delhi, 20'
+  [GRADUATION_YEAR] (106, 110): '
+Ski'
+  [SKILLS] (119, 125): 'on, Dj'
+  [SKILLS] (127, 133): 'go, Fl'
+  [SKILLS] (135, 140): 'k, Po'
+  [SKILLS] (142, 152): 'greSQL
+Exp'
+  [DESIGNATION] (166, 184): 'are Developer at P'
+  [COMPANY] (188, 193): ', Noi'
+  [LOCATION] (195, 200): ''
+Sample 12:
+Text length: 214
+  [NAME] (0, 12): 'Nisha Sharma'
+  [EMAIL] (20, 44): 'nisha.sharma@gmail.com
+P'
+  [PHONE] (52, 62): '66554433
+E'
+  [DEGREE] (76, 80): ' in '
+  [COLLEGE] (96, 117): 'anda House Delhi, 202'
+  [GRADUATION_YEAR] (119, 123): 'Skil'
+  [SKILLS] (132, 138): 'B, LaT'
+  [SKILLS] (140, 145): ', Dat'
+  [SKILLS] (147, 165): 'Visualization, Exc'
+  [SKILLS] (167, 172): '
+Expe'
+  [DESIGNATION] (186, 201): 'ch Intern at IS'
+  [COMPANY] (205, 209): 'Ahme'
+  [LOCATION] (211, 220): 'bad'
+Sample 13:
+Text length: 195
+  [NAME] (0, 13): 'Siddharth Rao'
+  [EMAIL] (21, 47): 'siddharth.rao@gmail.com
+Ph'
+  [PHONE] (55, 65): '5443322
+Ed'
+  [DEGREE] (79, 82): 'rom'
+  [COLLEGE] (88, 103): 'Hyderabad, 2023'
+  [GRADUATION_YEAR] (105, 109): 'kill'
+  [SKILLS] (118, 125): 'd, Kotl'
+  [SKILLS] (127, 133): ', Fire'
+  [SKILLS] (135, 143): 'se, Git
+'
+  [SKILLS] (145, 148): 'per'
+  [DESIGNATION] (162, 182): 'App Developer at Zom'
+  [COMPANY] (186, 192): ' Gurug'
+  [LOCATION] (194, 202): 'm'
+Sample 14:
+Text length: 197
+  [NAME] (0, 12): 'Pooja Mishra'
+  [EMAIL] (20, 44): 'pooja.mishra@gmail.com
+P'
+  [PHONE] (52, 62): '44332211
+E'
+  [DEGREE] (76, 81): 'm fro'
+  [COLLEGE] (87, 97): ' Delhi, 20'
+  [GRADUATION_YEAR] (99, 103): '
+Ski'
+  [SKILLS] (112, 122): 'unting, Ta'
+  [SKILLS] (124, 129): 'y, SA'
+  [SKILLS] (131, 134): ' Fi'
+  [SKILLS] (136, 154): 'ncial Analysis
+Exp'
+  [DESIGNATION] (168, 182): 'ce Intern at D'
+  [COMPANY] (186, 194): 'tte, Mum'
+  [LOCATION] (196, 202): 'i'
+Sample 15:
+Text length: 205
+  [NAME] (0, 9): 'Arjun Das'
+  [EMAIL] (17, 38): 'arjun.das@gmail.com
+P'
+  [PHONE] (46, 56): '33221100
+E'
+  [DEGREE] (70, 75): 'ch in'
+  [COLLEGE] (87, 101): 'T Surathkal, 2'
+  [GRADUATION_YEAR] (103, 107): '4
+Sk'
+  [SKILLS] (116, 120): 'L, V'
+  [SKILLS] (122, 129): 'ilog, F'
+  [SKILLS] (131, 135): 'A, S'
+  [SKILLS] (137, 154): 'nal Processing
+Ex'
+  [DESIGNATION] (168, 186): ' Design Intern at '
+  [COMPANY] (190, 198): 'comm, Ba'
+  [LOCATION] (200, 209): 'alore'
